@@ -55,16 +55,17 @@
 ## 🗂 Project Structure
 
 Browser-Agent/
-├── app.py ← Streamlit UI + chat logic
-├── agent_controller.py ← Intent parsing + action handler
-├── browser_driver.py ← Gmail + Google automation via Selenium
-├── content_generator.py ← Groq API-powered email generator
-├── screenshot_manager.py ← Takes and stores screenshots
-├── utils.py ← Helpers (regex parsing, validation)
-├── requirements.txt ← All Python dependencies
-├── .env ← Secrets (email/password/Groq key)
-├── README.md ← You're reading it
-└── screenshots/ ← Step-by-step captured PNGs
+├── app.py               ← Streamlit UI + chat logic  
+├── agent_controller.py ← Intent parsing + action handler  
+├── browser_driver.py    ← Gmail + Google automation via Selenium  
+├── content_generator.py ← Groq API-powered email generator  
+├── screenshot_manager.py← Takes and stores screenshots  
+├── utils.py             ← Helpers (regex parsing, validation)  
+├── requirements.txt     ← All Python dependencies  
+├── .env                 ← Secrets (email/password/Groq key)  
+├── README.md            ← You’re reading it  
+└── screenshots/         ← Step-by-step captured PNGs  
+
 
 
 ---
