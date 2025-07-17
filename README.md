@@ -66,9 +66,6 @@ Browser-Agent/
 ├── README.md ← You're reading it
 └── screenshots/ ← Step-by-step captured PNGs
 
-bash
-Copy
-Edit
 
 ---
 
