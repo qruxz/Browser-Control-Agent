@@ -1,0 +1,11 @@
+streamlit
+selenium
+groq
+python-dotenv
+
+
+python -m venv env
+
+.\env\Scripts\activate
+
+streamlit run app.py
